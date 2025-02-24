@@ -1,0 +1,6 @@
+Error Message,Count
+Permission denied for resource access,177
+Unexpected null pointer exception,171
+File not found: /var/log/app.log,169
+Disk space low on /dev/sda1,169
+User authentication failed,169
